@@ -1,5 +1,5 @@
 
 you can see the products I creat at:
 
-http://lab.acehub.hk:40043/admin/content 
+http://lab.acehub.hk:40043/product
 
